@@ -1,0 +1,2 @@
+# Compatibility name for earlier versions.
+-r requirements.txt

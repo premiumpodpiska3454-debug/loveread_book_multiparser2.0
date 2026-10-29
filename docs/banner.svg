@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="LoveRead Studio — книги в PDF">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#14241e"/><stop offset="1" stop-color="#10151d"/></linearGradient><linearGradient id="paper" x2="1" y2="1"><stop stop-color="#f7f1df"/><stop offset="1" stop-color="#c8b783"/></linearGradient></defs>
+<rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+<circle cx="1110" cy="100" r="230" fill="none" stroke="#748768" opacity=".12"/><circle cx="1110" cy="100" r="170" fill="none" stroke="#748768" opacity=".16"/>
+<path d="M60 55h46m-46 0v46M1220 305h-46m46 0v-46" stroke="#c9b88b" stroke-width="2" fill="none"/>
+<text x="82" y="97" font-family="Arial,sans-serif" font-size="16" letter-spacing="5" fill="#c9b88b">ЛИСТ / LOVEREAD STUDIO</text>
+<text x="78" y="171" font-family="Arial,sans-serif" font-size="54" font-weight="700" fill="#f2eee3">Каждая книга — в PDF.</text>
+<text x="82" y="214" font-family="Arial,sans-serif" font-size="22" fill="#b9c4bb">Чистый текст. Удобное окно. Книжная вёрстка.</text>
+<g font-family="Arial,sans-serif" font-size="15" fill="#d9dfd0"><rect x="82" y="252" width="110" height="34" rx="17" fill="#2c4033"/><text x="107" y="274">PYTHON</text><rect x="202" y="252" width="102" height="34" rx="17" fill="#2c4033"/><text x="225" y="274">PYSIDE6</text><rect x="314" y="252" width="115" height="34" rx="17" fill="#2c4033"/><text x="337" y="274">PDF / A5</text><rect x="439" y="252" width="155" height="34" rx="17" fill="#2c4033"/><text x="464" y="274">КИРИЛЛИЦА</text></g>
+<g transform="translate(965 73) rotate(7 90 100)"><rect x="4" y="7" width="190" height="224" rx="14" fill="#09100d" opacity=".5"/><rect width="180" height="218" rx="12" fill="url(#paper)"/><path d="M25 35h130M25 51h91" stroke="#829077" stroke-width="4" stroke-linecap="round"/><path d="M28 88h56q10 0 10 10v76q-6-8-17-8H28z" fill="#3a5341"/><path d="M155 88h-51q-10 0-10 10v76q6-8 17-8h44z" fill="#718269"/><path d="M42 107h32m-32 13h32m-32 13h32m36-26h30m-30 13h30m-30 13h30" stroke="#e8e5d1" stroke-width="3" stroke-linecap="round"/><text x="90" y="199" text-anchor="middle" fill="#3b513e" font-size="12" font-family="Arial,sans-serif" letter-spacing="3">READ / KEEP</text></g>
+</svg>
